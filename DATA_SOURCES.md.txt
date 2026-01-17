@@ -1,0 +1,5 @@
+1. Administrative boundaries – GeoFabrik (OpenStreetMap)
+2. Road network – GeoFabrik (OpenStreetMap)
+3. Rainfall data – IMD (daily)
+4. Flood incidents – Public reports / news datasets
+5. Traffic data – Transport reports / estimated
